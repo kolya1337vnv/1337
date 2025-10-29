@@ -1,5 +1,3 @@
-[ai_writer_picker_offline (1).html](https://github.com/user-attachments/files/23196075/ai_writer_picker_offline.1.html)
-<!doctype html>
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
