@@ -63,7 +63,7 @@
 <div class="wrap">
   <div class="card" role="application" aria-label="AI Group Generator">
     <h1>Кто ты в литературе?</h1>
-    <p class="lead">Тапни — и узнай, кем ты стал(а) сегодня. Чистая шутка для семинара.</p>
+    <p class="lead">Тапни — и узнай, кем ты стал(а) сегодня. </p>
 
     <div class="stage">
       <div class="thinking" id="thinking"><span>ИИ думает</span><div style="width:8px"></div><div class="dot"></div><div class="dot d2"></div><div class="dot d3"></div></div>
