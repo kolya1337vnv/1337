@@ -88,7 +88,7 @@
       <button class="btn secondary" id="nextBtn">Далее</button>
     </div>
 
-    <footer>Показать коллегам: включи звук и смотри реакцию. © LIT.AI</footer>
+    <footer>Посмотрите коллеги кто Вы. © Vdovin.AI</footer>
   </div>
 </div>
 
